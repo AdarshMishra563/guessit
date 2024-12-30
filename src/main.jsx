@@ -12,7 +12,7 @@ import NewLayout from './NewLayout.jsx'
 import store from './Store.js'
 const router = createBrowserRouter([
   {
-    path: "/",
+    path: "/wordplay",
     element: <Layout/>,
     children: [
         {
